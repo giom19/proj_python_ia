@@ -1,4 +1,4 @@
-produto= {
+produto={
     "ID":2024001,
     "Produto": "Maça",
     "preço":3.50,
